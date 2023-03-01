@@ -1,0 +1,15 @@
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.exe
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\pokemon2.csv
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.deps.json
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.runtimeconfig.json
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.runtimeconfig.dev.json
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\bin\Debug\netcoreapp3.1\PokeDexFinal.pdb
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.csproj.AssemblyReference.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.AssemblyInfoInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.AssemblyInfo.cs
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.csproj.CoreCompileInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.pdb
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinal\obj\Debug\netcoreapp3.1\PokeDexFinal.genruntimeconfig.cache

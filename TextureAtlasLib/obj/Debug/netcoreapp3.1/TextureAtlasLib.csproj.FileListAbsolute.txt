@@ -1,0 +1,10 @@
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\bin\Debug\netcoreapp3.1\TextureAtlasLib.deps.json
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\bin\Debug\netcoreapp3.1\TextureAtlasLib.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\bin\Debug\netcoreapp3.1\TextureAtlasLib.pdb
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.csproj.AssemblyReference.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.AssemblyInfoInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.AssemblyInfo.cs
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.csproj.CoreCompileInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\TextureAtlasLib\obj\Debug\netcoreapp3.1\TextureAtlasLib.pdb

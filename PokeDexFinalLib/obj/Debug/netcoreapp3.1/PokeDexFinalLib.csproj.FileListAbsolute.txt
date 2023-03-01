@@ -1,0 +1,11 @@
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\bin\Debug\netcoreapp3.1\pokemon2.csv
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\bin\Debug\netcoreapp3.1\PokeDexFinalLib.deps.json
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\bin\Debug\netcoreapp3.1\PokeDexFinalLib.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\bin\Debug\netcoreapp3.1\PokeDexFinalLib.pdb
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.csproj.AssemblyReference.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.AssemblyInfoInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.AssemblyInfo.cs
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.csproj.CoreCompileInputs.cache
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.dll
+C:\Users\lcv2032525\Downloads\VGP232_Spring-main\VGP232_Spring-main\VGP232_Spring\PokeDexFinalLib\obj\Debug\netcoreapp3.1\PokeDexFinalLib.pdb

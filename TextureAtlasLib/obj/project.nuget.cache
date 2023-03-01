@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KEfKvfUb7XdJ5MaFoh2WNrDu47Fls8frRxjzKq9VsCU6LG7UPgSwPBPRKvdtlG4llCF6bZoHPL3X7KobDE11w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcv2032525\\Downloads\\VGP232_Spring-main\\VGP232_Spring-main\\VGP232_Spring\\TextureAtlasLib\\TextureAtlasLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

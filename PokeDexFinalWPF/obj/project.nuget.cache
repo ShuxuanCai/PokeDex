@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NokUuJqSJG/BP8efDLT3/xObnUM+hODILHwevolTs20UdPemP7L+e8fSCx5JglkVZzWgLu0EgZ22rhdwjYLN8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcv2032525\\Downloads\\VGP232_Spring-main\\VGP232_Spring-main\\VGP232_Spring\\PokeDexFinalWPF\\PokeDexFinalWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lcv2032525\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
